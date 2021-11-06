@@ -1,0 +1,7 @@
+Release/
+Debug/
+X64/
+HeavensGate/Release/
+HeavensGate/Debug/
+HeavensGate/X64/
+.vs/
